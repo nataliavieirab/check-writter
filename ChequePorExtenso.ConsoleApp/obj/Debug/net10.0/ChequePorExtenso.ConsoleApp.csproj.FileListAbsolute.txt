@@ -12,3 +12,4 @@
 /home/natalia/Documents/AcademiaDoProgramador/Projetos/Modulo-03/Quebra-Cuca/ChequePorExtenso/ChequePorExtenso.ConsoleApp/obj/Debug/net10.0/ChequePorExtenso.ConsoleApp.pdb
 /home/natalia/Documents/AcademiaDoProgramador/Projetos/Modulo-03/Quebra-Cuca/ChequePorExtenso/ChequePorExtenso.ConsoleApp/obj/Debug/net10.0/ChequePorExtenso.ConsoleApp.genruntimeconfig.cache
 /home/natalia/Documents/AcademiaDoProgramador/Projetos/Modulo-03/Quebra-Cuca/ChequePorExtenso/ChequePorExtenso.ConsoleApp/obj/Debug/net10.0/ref/ChequePorExtenso.ConsoleApp.dll
+/home/natalia/Documents/AcademiaDoProgramador/Projetos/Modulo-03/Quebra-Cuca/ChequePorExtenso/ChequePorExtenso.ConsoleApp/obj/Debug/net10.0/ChequePorExtenso.ConsoleApp.sourcelink.json

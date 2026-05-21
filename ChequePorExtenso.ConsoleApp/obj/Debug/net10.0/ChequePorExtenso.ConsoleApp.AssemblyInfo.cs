@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChequePorExtenso.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085a36ac5d900516f4ec6f0d2ecebc1d69292de5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChequePorExtenso.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChequePorExtenso.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,22 +13,6 @@ public static class ChequePorExtenso
 
     string resultado = "";
 
-    // CENTAVOS
-    if (valorCentavos > 0)
-    {
-      string centavosPorExtenso = NumeroPorExtenso.Converter(valorCentavos);
-
-      string palavraCentavo = valorCentavos == 1
-        ? "centavo"
-        : "centavos";
-
-      // Se já existe parte de reais
-      if (resultado != "")
-        resultado += " e ";
-
-      resultado += $"{centavosPorExtenso} {palavraCentavo}";
-    }
-
     // REAIS
     if (valorReais > 0)
     {
@@ -39,6 +23,21 @@ public static class ChequePorExtenso
         : "reais";
 
       resultado += $"{reaisPorExtenso} {palavraReal}";
+    }
+
+    // CENTAVOS
+    if (valorCentavos > 0)
+    {
+      string centavosPorExtenso = NumeroPorExtenso.Converter(valorCentavos);
+
+      string palavraCentavo = valorCentavos == 1
+        ? "centavo"
+        : "centavos";
+
+      if (resultado != "")
+        resultado += " e ";
+
+      resultado += $"{centavosPorExtenso} {palavraCentavo}";
     }
 
     return resultado;

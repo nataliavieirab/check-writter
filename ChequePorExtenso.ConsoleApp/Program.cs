@@ -1,6 +1,6 @@
 ﻿using ModuloConversor;
 
-decimal valorEntrada = 999;
+decimal valorEntrada = 55.55m;
 
 Console.Clear();
 

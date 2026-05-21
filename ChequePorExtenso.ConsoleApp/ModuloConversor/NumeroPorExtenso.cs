@@ -46,6 +46,8 @@ public static class NumeroPorExtenso
     {
       int milhares = numero / 1000;
       int resto = numero % 1000;
+
+      
     }
 
 
